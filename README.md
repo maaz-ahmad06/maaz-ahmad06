@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student | 🌐 Aspiring MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Frontend+Developer+in+Learning;Future+MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+[<img src="https://readme-typing-svg.demolab.com?](https://readme-typing-svg.demolab.com/?lines=Hello+World)font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Frontend+Developer+in+Learning;Future+MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
 
 </div>
 
