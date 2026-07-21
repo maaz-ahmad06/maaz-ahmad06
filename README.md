@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maaz-ahmad&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-ahmad06&theme=tokyonight"/>
 
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ahmad06&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -80,11 +80,11 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/maaz-ahmad06">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/maaz-ahmad06">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
